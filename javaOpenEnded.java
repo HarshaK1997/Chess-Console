@@ -476,7 +476,10 @@ class javaOpenEnded
                         System.out.print("\n\n\n1. Play\n2. Help\n3. Exit\nEnter the choice : ");
                         choice=input.nextInt();
                         while(choice<1||choice>3)
+                        {
+                                System.out.print("\nEnter the Valid choice : ");
                                 choice=input.nextInt();
+                        }
                         if(choice==1)
                         {
                                 Game g = new Game();
