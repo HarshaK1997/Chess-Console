@@ -1,18 +1,12 @@
 # Chess-Console
 
-# Console-Chess game using java coded by Harsha.K
+# Console-Chess game using java,
+by Harsha.K
 
-# can be executed in any OS platform that supports java files.
+# can be executed in any OS platform that supports java.
 
-# In Windows -
-	open command-prompt ( search for "cmd" in search menu ), move to the following directory and execute the following commands -
-
-	# to compile
-		javac javaOpenEnded.java
-	# to execute
-		java javaOpenEnded
-# In Linux -
-	open terminal ( Ctrl+Alt+T ), move to the following directory using ( cd command ) and execute the following commands -
+# How to play -
+	open command-prompt (Windows) or terminal (Linux, Mac, etc) -
 
 	# to compile
 		javac javaOpenEnded.java
